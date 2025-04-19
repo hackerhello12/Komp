@@ -1,1 +1,1 @@
-vless://c32f818b-38bf-4c0e-93df-ca345b2c134f@5.181.108.253:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=ragnar.bmelikem.online&fp=chrome&type=ws&sni=ragnar.bmelikem.online#%5Bvless%5D%5Bcf%5D
+vless://1b4c0bcc-e30f-4626-906e-8dd63f7fff38@212.67.9.129:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=sword.gamepassion.shop&fp=chrome&type=ws&sni=sword.gamepassion.shop#🇳🇱Nederland
